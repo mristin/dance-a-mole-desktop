@@ -153,7 +153,7 @@ class State:
             MoleState(
                 action=MoleAction.LINGERING_BENEATH,
                 start=game_start,
-                end=game_start + 2 + int(random.random() * 10),
+                end=game_start + 2 + int(random.random() * 13),
             )
             for _ in range(8)
         ]
@@ -273,7 +273,7 @@ def handle_in_game(
                     ):
                         mole_state.action = MoleAction.LINGERING_BENEATH
                         mole_state.start = now
-                        mole_state.end = now + 2 + random.random() * 10
+                        mole_state.end = now + 2 + random.random() * 13
 
                     else:
                         assert_never(mole_state.action)
