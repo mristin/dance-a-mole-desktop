@@ -11,6 +11,10 @@ Dance the moles back into their holes instead of whacking them.
 .. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot.png
     :alt: Screenshot
 
+.. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot-game-over.png
+    :alt: Screenshot Game Over
+
+
 Installation
 ============
 Download and unzip a version of the game from the `Releases`_.
