@@ -14,6 +14,17 @@ Dance the moles back into their holes instead of whacking them.
 .. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot-game-over.png
     :alt: Screenshot Game Over
 
+.. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot-youtube-standard.png
+    :alt: Screenshot Youtube standard
+    :target: https://www.youtube.com/shorts/KubgIO5jF-E
+
+.. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot-youtube-plank.png
+    :alt: Screenshot Youtube plank
+    :target: https://www.youtube.com/watch?v=QVMEFmFwkKw
+
+.. image:: https://media.githubusercontent.com/media/mristin/dance-a-mole-desktop/main/screenshot-youtube-jumping.png
+    :alt: Screenshot Youtube jumping
+    :target: https://www.youtube.com/shorts/zVW9MYvRWe0
 
 Installation
 ============
